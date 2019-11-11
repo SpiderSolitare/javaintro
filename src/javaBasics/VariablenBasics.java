@@ -3,8 +3,7 @@ package javaBasics;
 public class VariablenBasics {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		boolean wahr_oder_falsch;
 		wahr_oder_falsch = true;
 		System.out.println(wahr_oder_falsch);
@@ -20,7 +19,7 @@ public class VariablenBasics {
 		System.out.println("");
 		
 		//byte
-		
+
 		System.out.println(Byte.MIN_VALUE);
 		System.out.println(Byte.MAX_VALUE);
 		System.out.println("");
@@ -51,6 +50,16 @@ public class VariablenBasics {
 		System.out.println(Double.MAX_VALUE);
 		System.out.println(Double.MIN_VALUE);
 		System.out.println("");
+		
+		//char
+		char ein_zeichen = 'c';
+		System.out.println(ein_zeichen);
+		System.out.println("");
+		// char mit zwei zeichen geht nicht
+		
+		// String
+		String text = "String";
+		System.out.println(text);			
 				
 	}
 	
