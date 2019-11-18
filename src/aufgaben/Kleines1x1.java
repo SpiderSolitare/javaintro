@@ -1,4 +1,4 @@
-package javaBasics;
+package aufgaben;
 
 public class Kleines1x1 {
 
