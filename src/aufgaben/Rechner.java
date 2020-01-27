@@ -8,8 +8,6 @@ public class Rechner {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-
 				double o1, o2, o3, ergebnis;
 				
 				
@@ -50,5 +48,3 @@ public class Rechner {
 
 		}
 	}
-
-
